@@ -151,6 +151,14 @@ footer{
   height: 500px;
   width: 450px;
 }
+
+@media only screen and (max-width: 600px){
+  .collage{
+    width: 150px;
+    height: 200px;
+  }
+}
+
 .contact{
     background-color: #024249;
     color: white;
